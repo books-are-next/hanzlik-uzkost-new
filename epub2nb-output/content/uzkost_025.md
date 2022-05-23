@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XX  (útěky)
+contentType: poetry
 ---
-
-## Variace XX  
-(útěky)
 
 Mravenci běží před ohněm a hladem  
 Zuby drkotají ke kolenům  

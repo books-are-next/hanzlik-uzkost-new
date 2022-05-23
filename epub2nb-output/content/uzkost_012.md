@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace VII
+contentType: poetry
 ---
-
-## Variace VII
 
 Pospíchám travičskými kroky  
 Rychle zabij vše své  

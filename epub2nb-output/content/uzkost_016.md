@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace XI
+contentType: poetry
 ---
-
-## Variace XI
 
 Jak dlouho už dělím čas  
 mezi ošizené a liché

@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XV  (mlha)
+contentType: poetry
 ---
-
-## Variace XV  
-(mlha)
 
 Ruce které odcházejí  
 Mlha která zůstává

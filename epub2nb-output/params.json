@@ -1,14 +1,17 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Úzkost",
       "identifier": "13e42fbb-f55d-4af7-a523-54ee9c544a36",
       "author": "Josef Hanzlík",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-04-08T00:00:00.000Z"
+      "modified": "2019-04-08T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola\nmlpuroven2basne",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
       "h3": "",
@@ -22,15 +25,16 @@
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "verse": "MLP-verse\nMLP-verse.+",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "verse": "MLP-verse\nMLP-verse.+"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "uzkost_001.md",
@@ -439,163 +443,163 @@
         "xhtml": "uzkost_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace I",
         "subtitleSuggest": "",
         "filename": "uzkost_006.md",
         "xhtml": "uzkost_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace II",
         "subtitleSuggest": "",
         "filename": "uzkost_007.md",
         "xhtml": "uzkost_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace III",
         "subtitleSuggest": "",
         "filename": "uzkost_008.md",
         "xhtml": "uzkost_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace IV",
         "subtitleSuggest": "",
         "filename": "uzkost_009.md",
         "xhtml": "uzkost_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace V",
         "subtitleSuggest": "",
         "filename": "uzkost_010.md",
         "xhtml": "uzkost_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace VI  (otázka)",
         "subtitleSuggest": "",
         "filename": "uzkost_011.md",
         "xhtml": "uzkost_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace VII",
         "subtitleSuggest": "",
         "filename": "uzkost_012.md",
         "xhtml": "uzkost_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace VIII",
         "subtitleSuggest": "",
         "filename": "uzkost_013.md",
         "xhtml": "uzkost_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace IX",
         "subtitleSuggest": "",
         "filename": "uzkost_014.md",
         "xhtml": "uzkost_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace X",
         "subtitleSuggest": "",
         "filename": "uzkost_015.md",
         "xhtml": "uzkost_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XI",
         "subtitleSuggest": "",
         "filename": "uzkost_016.md",
         "xhtml": "uzkost_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XII",
         "subtitleSuggest": "",
         "filename": "uzkost_017.md",
         "xhtml": "uzkost_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XIII",
         "subtitleSuggest": "",
         "filename": "uzkost_018.md",
         "xhtml": "uzkost_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XIV  (dárky)",
         "subtitleSuggest": "",
         "filename": "uzkost_019.md",
         "xhtml": "uzkost_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XV  (mlha)",
         "subtitleSuggest": "",
         "filename": "uzkost_020.md",
         "xhtml": "uzkost_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XVI",
         "subtitleSuggest": "",
         "filename": "uzkost_021.md",
         "xhtml": "uzkost_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XVII  (únosy)",
         "subtitleSuggest": "",
         "filename": "uzkost_022.md",
         "xhtml": "uzkost_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XVIII  (pohrůžky)",
         "subtitleSuggest": "",
         "filename": "uzkost_023.md",
         "xhtml": "uzkost_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XIX  (hroby)",
         "subtitleSuggest": "",
         "filename": "uzkost_024.md",
         "xhtml": "uzkost_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XX  (útěky)",
         "subtitleSuggest": "",
         "filename": "uzkost_025.md",
         "xhtml": "uzkost_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XXI  (někdy nikde)",
         "subtitleSuggest": "",
         "filename": "uzkost_026.md",
         "xhtml": "uzkost_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XXII  (krajina)",
         "subtitleSuggest": "",
         "filename": "uzkost_027.md",
         "xhtml": "uzkost_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XXIII  (úkoly)",
         "subtitleSuggest": "",
         "filename": "uzkost_028.md",
         "xhtml": "uzkost_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XXIV  (žalm za zemřelé)",
         "subtitleSuggest": "",
         "filename": "uzkost_029.md",
         "xhtml": "uzkost_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XXV  (křísení)",
         "subtitleSuggest": "",
         "filename": "uzkost_030.md",
         "xhtml": "uzkost_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XXVI  (dedikace)",
         "subtitleSuggest": "",
         "filename": "uzkost_031.md",
         "xhtml": "uzkost_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace XXVII",
         "subtitleSuggest": "",
         "filename": "uzkost_032.md",
         "xhtml": "uzkost_032.html"
@@ -669,6 +673,6 @@
       "user": "books-are-next",
       "repo": "hanzlik-uzkost-new"
     },
-    "generatedAt": 1653337672632
+    "generatedAt": 1653337945395
   }
 }

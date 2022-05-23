@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace V
+contentType: poetry
 ---
-
-## Variace V
 
 Lihové lampy  
 arkýře úponky  

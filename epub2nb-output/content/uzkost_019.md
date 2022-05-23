@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XIV  (dárky)
+contentType: poetry
 ---
-
-## Variace XIV  
-(dárky)
 
 K svátku:  
 zamrzlá všechna okna  

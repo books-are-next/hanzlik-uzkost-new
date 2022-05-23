@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XXIII  (úkoly)
+contentType: poetry
 ---
-
-## Variace XXIII  
-(úkoly)
 
 Mráz spálí kopřivu  
 vítr utopí listí  
