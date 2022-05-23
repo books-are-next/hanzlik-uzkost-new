@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace VIII
+contentType: poetry
 ---
-
-## Variace VIII
 
 Pochop že nemůžeš utéci  
 všechny tvé samoty  

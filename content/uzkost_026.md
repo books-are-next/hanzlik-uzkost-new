@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XXI  (někdy nikde)
+contentType: poetry
 ---
-
-## Variace XXI  
-(někdy nikde)
 
 Někde začni  
 Nikde nepokračuj

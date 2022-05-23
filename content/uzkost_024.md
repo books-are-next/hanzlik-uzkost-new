@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XIX  (hroby)
+contentType: poetry
 ---
-
-## Variace XIX  
-(hroby)
 
 Kočí kope jámu koni  
 kočár pocestnému  

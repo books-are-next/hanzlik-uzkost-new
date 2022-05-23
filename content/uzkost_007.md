@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace II
+contentType: poetry
 ---
-
-## Variace II
 
 Opravdu lze u tebe hovořit až do nekonečna  
 o nenávisti?  

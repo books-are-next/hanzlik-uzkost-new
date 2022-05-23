@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace X
+contentType: poetry
 ---
-
-## Variace X
 
 Usni  
 udělej se pro sebe  

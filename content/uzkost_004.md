@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
 Znění tohoto textu vychází z díla [Úzkost](https://search.mlp.cz/cz/titul/uzkost/159475/) tak, jak bylo vydáno v Praze nakladatelstvím Mladá fronta v roce 1966.

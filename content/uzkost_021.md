@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace XVI
+contentType: poetry
 ---
-
-## Variace XVI
 
 Ošklivost která mi kouká z očí  
 jako přežvýkaná sláma z bot

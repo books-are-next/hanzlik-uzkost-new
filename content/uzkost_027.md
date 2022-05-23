@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XXII  (krajina)
+contentType: poetry
 ---
-
-## Variace XXII  
-(krajina)
 
 Několik vlčích tváří  
 Svazek zjihlých stromů  

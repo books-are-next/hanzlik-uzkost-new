@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace IV
+contentType: poetry
 ---
-
-## Variace IV
 
 Svítím zlodějskou lampičkou  
 ukrádám si světlo  

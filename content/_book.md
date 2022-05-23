@@ -2,13 +2,16 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Úzkost
   identifier: 13e42fbb-f55d-4af7-a523-54ee9c544a36
   author: Josef Hanzlík
   publisher: Městská knihovna v Praze
   modified: '2019-04-08T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
 readingOrder:
   - promo.html
   - uzkost_001.html
@@ -48,6 +51,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

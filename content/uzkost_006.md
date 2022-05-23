@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace I
+contentType: poetry
 ---
-
-## Variace I
 
 Je-li mlčení  
 jen pohřbívání sebe sama?

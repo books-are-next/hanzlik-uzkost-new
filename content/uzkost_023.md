@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XVIII  (pohrůžky)
+contentType: poetry
 ---
-
-## Variace XVIII  
-(pohrůžky)
 
 Rezavá barva vyhrožuje černé  
 Mozek vyhrožuje lebeční kosti  

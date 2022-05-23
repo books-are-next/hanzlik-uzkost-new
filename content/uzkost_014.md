@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace IX
+contentType: poetry
 ---
-
-## Variace IX
 
 Chodím v mlze  
 bojím se svých rukou  

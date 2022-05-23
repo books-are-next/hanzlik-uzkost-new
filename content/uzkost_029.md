@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XXIV  (žalm za zemřelé)
+contentType: poetry
 ---
-
-## Variace XXIV  
-(žalm za zemřelé)
 
 Spí slunce na makových polích  
 V zimních kamnech kvetou pavouci  

@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace XIII
+contentType: poetry
 ---
-
-## Variace XIII
 
 Mlčení toho kdo mluví  
 Mluvení toho kdo neodpovídá

@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XXVI  (dedikace)
+contentType: poetry
 ---
-
-## Variace XXVI  
-(dedikace)
 
 Jemuž sadař odmítá i spadlá jablka  
 Jenž stárne u lihových kamen útlosti  

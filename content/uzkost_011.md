@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace VI  (otázka)
+contentType: poetry
 ---
-
-## Variace VI  
-(otázka)
 
 Kam jdeš? Kam nejdeš?  
 Vrátíš se vůbec mrtev a zdráv?

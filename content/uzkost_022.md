@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XVII  (únosy)
+contentType: poetry
 ---
-
-## Variace XVII  
-(únosy)
 
 Vlci unášejí přítulné děti  
 řeka hlínu po mrtvých  

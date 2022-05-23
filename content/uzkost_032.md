@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace XXVII
+contentType: poetry
 ---
-
-## Variace XXVII
 
 Pro příště  
 už ani památky  

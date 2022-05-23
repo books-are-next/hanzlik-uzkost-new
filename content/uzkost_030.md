@@ -1,9 +1,7 @@
 ---
-contentType: prose
+title: Variace XXV  (křísení)
+contentType: poetry
 ---
-
-## Variace XXV  
-(křísení)
 
 Jsem už naživu?  
 Jste už naživu a zdrávi?

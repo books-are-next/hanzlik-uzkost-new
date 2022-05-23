@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace XII
+contentType: poetry
 ---
-
-## Variace XII
 
 Nemohu si zvyknout  
 Vlasy mi tu vstávají  

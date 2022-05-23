@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Variace III
+contentType: poetry
 ---
-
-## Variace III
 
 Nemysli stále na svou osiřelost  
 třebaže osiření je tklivost sama
