@@ -14,10 +14,6 @@ meta:
   publisherShort: mkp
 readingOrder:
   - promo.html
-  - uzkost_001.html
-  - uzkost_002.html
-  - uzkost_003.html
-  - uzkost_004.html
   - uzkost_005.html
   - uzkost_006.html
   - uzkost_007.html
@@ -46,10 +42,91 @@ readingOrder:
   - uzkost_030.html
   - uzkost_031.html
   - uzkost_032.html
-  - uzkost_033.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: uzkost_006.html
+        title: Variace I
+        hiddenTitle: false
+      - link: uzkost_007.html
+        title: Variace II
+        hiddenTitle: false
+      - link: uzkost_008.html
+        title: Variace III
+        hiddenTitle: false
+      - link: uzkost_009.html
+        title: Variace IV
+        hiddenTitle: false
+      - link: uzkost_010.html
+        title: Variace V
+        hiddenTitle: false
+      - link: uzkost_011.html
+        title: Variace VI  (otázka)
+        hiddenTitle: false
+      - link: uzkost_012.html
+        title: Variace VII
+        hiddenTitle: false
+      - link: uzkost_013.html
+        title: Variace VIII
+        hiddenTitle: false
+      - link: uzkost_014.html
+        title: Variace IX
+        hiddenTitle: false
+      - link: uzkost_015.html
+        title: Variace X
+        hiddenTitle: false
+      - link: uzkost_016.html
+        title: Variace XI
+        hiddenTitle: false
+      - link: uzkost_017.html
+        title: Variace XII
+        hiddenTitle: false
+      - link: uzkost_018.html
+        title: Variace XIII
+        hiddenTitle: false
+      - link: uzkost_019.html
+        title: Variace XIV  (dárky)
+        hiddenTitle: false
+      - link: uzkost_020.html
+        title: Variace XV  (mlha)
+        hiddenTitle: false
+      - link: uzkost_021.html
+        title: Variace XVI
+        hiddenTitle: false
+      - link: uzkost_022.html
+        title: Variace XVII  (únosy)
+        hiddenTitle: false
+      - link: uzkost_023.html
+        title: Variace XVIII  (pohrůžky)
+        hiddenTitle: false
+      - link: uzkost_024.html
+        title: Variace XIX  (hroby)
+        hiddenTitle: false
+      - link: uzkost_025.html
+        title: Variace XX  (útěky)
+        hiddenTitle: false
+      - link: uzkost_026.html
+        title: Variace XXI  (někdy nikde)
+        hiddenTitle: false
+      - link: uzkost_027.html
+        title: Variace XXII  (krajina)
+        hiddenTitle: false
+      - link: uzkost_028.html
+        title: Variace XXIII  (úkoly)
+        hiddenTitle: false
+      - link: uzkost_029.html
+        title: Variace XXIV  (žalm za zemřelé)
+        hiddenTitle: false
+      - link: uzkost_030.html
+        title: Variace XXV  (křísení)
+        hiddenTitle: false
+      - link: uzkost_031.html
+        title: Variace XXVI  (dedikace)
+        hiddenTitle: false
+      - link: uzkost_032.html
+        title: Variace XXVII
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
