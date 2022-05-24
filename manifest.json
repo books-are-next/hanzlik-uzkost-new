@@ -7,14 +7,10 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hanzlik-uzkost-26d5e55",
-  "revision": "26d5e55",
+  "identifier": "hanzlik-uzkost-b68d698",
+  "revision": "b68d698",
   "readingOrder": [
     "promo.html",
-    "uzkost_001.html",
-    "uzkost_002.html",
-    "uzkost_003.html",
-    "uzkost_004.html",
     "uzkost_005.html",
     "uzkost_006.html",
     "uzkost_007.html",
@@ -43,11 +39,11 @@
     "uzkost_030.html",
     "uzkost_031.html",
     "uzkost_032.html",
-    "uzkost_033.html"
+    "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon May 23 2022 20:33:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1653338001591
+    "date": "Tue May 24 2022 05:50:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1653371413763
   },
   "documents": [
     {
@@ -59,88 +55,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "uzkost_001.html",
-      "toc": []
-    },
-    {
-      "title": "Úzkost",
-      "file": "uzkost_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "uzkost_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Úzkost",
-      "file": "uzkost_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 2,
-      "prev": "uzkost_001.html",
-      "next": "uzkost_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Úzkost",
-      "file": "uzkost_003.html",
-      "words": 3,
-      "chars": 19,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 3,
-      "prev": "uzkost_002.html",
-      "next": "uzkost_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Úzkost",
-      "file": "uzkost_004.html",
-      "words": 78,
-      "chars": 509,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 4,
-      "prev": "uzkost_003.html",
       "next": "uzkost_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Úzkost",
@@ -149,8 +65,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 5,
-      "prev": "uzkost_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "uzkost_006.html",
       "toc": [
         {
@@ -169,7 +85,7 @@
       "chars": 694,
       "ideas": 27,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "uzkost_005.html",
       "next": "uzkost_007.html",
       "toc": [
@@ -189,7 +105,7 @@
       "chars": 857,
       "ideas": 31,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "uzkost_006.html",
       "next": "uzkost_008.html",
       "toc": [
@@ -209,7 +125,7 @@
       "chars": 890,
       "ideas": 33,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "uzkost_007.html",
       "next": "uzkost_009.html",
       "toc": [
@@ -229,7 +145,7 @@
       "chars": 766,
       "ideas": 31,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "uzkost_008.html",
       "next": "uzkost_010.html",
       "toc": [
@@ -249,7 +165,7 @@
       "chars": 1018,
       "ideas": 49,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "uzkost_009.html",
       "next": "uzkost_011.html",
       "toc": [
@@ -269,7 +185,7 @@
       "chars": 773,
       "ideas": 30,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "uzkost_010.html",
       "next": "uzkost_012.html",
       "toc": [
@@ -289,7 +205,7 @@
       "chars": 650,
       "ideas": 28,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "uzkost_011.html",
       "next": "uzkost_013.html",
       "toc": [
@@ -309,7 +225,7 @@
       "chars": 733,
       "ideas": 31,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "uzkost_012.html",
       "next": "uzkost_014.html",
       "toc": [
@@ -329,7 +245,7 @@
       "chars": 375,
       "ideas": 15,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "uzkost_013.html",
       "next": "uzkost_015.html",
       "toc": [
@@ -349,7 +265,7 @@
       "chars": 621,
       "ideas": 31,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "uzkost_014.html",
       "next": "uzkost_016.html",
       "toc": [
@@ -369,7 +285,7 @@
       "chars": 671,
       "ideas": 29,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "uzkost_015.html",
       "next": "uzkost_017.html",
       "toc": [
@@ -389,7 +305,7 @@
       "chars": 476,
       "ideas": 23,
       "role": "chapter",
-      "order": 17,
+      "order": 13,
       "prev": "uzkost_016.html",
       "next": "uzkost_018.html",
       "toc": [
@@ -409,7 +325,7 @@
       "chars": 956,
       "ideas": 40,
       "role": "chapter",
-      "order": 18,
+      "order": 14,
       "prev": "uzkost_017.html",
       "next": "uzkost_019.html",
       "toc": [
@@ -429,7 +345,7 @@
       "chars": 748,
       "ideas": 43,
       "role": "chapter",
-      "order": 19,
+      "order": 15,
       "prev": "uzkost_018.html",
       "next": "uzkost_020.html",
       "toc": [
@@ -449,7 +365,7 @@
       "chars": 1608,
       "ideas": 73,
       "role": "chapter",
-      "order": 20,
+      "order": 16,
       "prev": "uzkost_019.html",
       "next": "uzkost_021.html",
       "toc": [
@@ -469,7 +385,7 @@
       "chars": 347,
       "ideas": 11,
       "role": "chapter",
-      "order": 21,
+      "order": 17,
       "prev": "uzkost_020.html",
       "next": "uzkost_022.html",
       "toc": [
@@ -489,7 +405,7 @@
       "chars": 663,
       "ideas": 25,
       "role": "chapter",
-      "order": 22,
+      "order": 18,
       "prev": "uzkost_021.html",
       "next": "uzkost_023.html",
       "toc": [
@@ -509,7 +425,7 @@
       "chars": 625,
       "ideas": 22,
       "role": "chapter",
-      "order": 23,
+      "order": 19,
       "prev": "uzkost_022.html",
       "next": "uzkost_024.html",
       "toc": [
@@ -529,7 +445,7 @@
       "chars": 424,
       "ideas": 17,
       "role": "chapter",
-      "order": 24,
+      "order": 20,
       "prev": "uzkost_023.html",
       "next": "uzkost_025.html",
       "toc": [
@@ -549,7 +465,7 @@
       "chars": 460,
       "ideas": 18,
       "role": "chapter",
-      "order": 25,
+      "order": 21,
       "prev": "uzkost_024.html",
       "next": "uzkost_026.html",
       "toc": [
@@ -569,7 +485,7 @@
       "chars": 622,
       "ideas": 23,
       "role": "chapter",
-      "order": 26,
+      "order": 22,
       "prev": "uzkost_025.html",
       "next": "uzkost_027.html",
       "toc": [
@@ -589,7 +505,7 @@
       "chars": 582,
       "ideas": 22,
       "role": "chapter",
-      "order": 27,
+      "order": 23,
       "prev": "uzkost_026.html",
       "next": "uzkost_028.html",
       "toc": [
@@ -609,7 +525,7 @@
       "chars": 336,
       "ideas": 17,
       "role": "chapter",
-      "order": 28,
+      "order": 24,
       "prev": "uzkost_027.html",
       "next": "uzkost_029.html",
       "toc": [
@@ -629,7 +545,7 @@
       "chars": 599,
       "ideas": 24,
       "role": "chapter",
-      "order": 29,
+      "order": 25,
       "prev": "uzkost_028.html",
       "next": "uzkost_030.html",
       "toc": [
@@ -649,7 +565,7 @@
       "chars": 596,
       "ideas": 26,
       "role": "chapter",
-      "order": 30,
+      "order": 26,
       "prev": "uzkost_029.html",
       "next": "uzkost_031.html",
       "toc": [
@@ -669,7 +585,7 @@
       "chars": 544,
       "ideas": 17,
       "role": "chapter",
-      "order": 31,
+      "order": 27,
       "prev": "uzkost_030.html",
       "next": "uzkost_032.html",
       "toc": [
@@ -689,9 +605,9 @@
       "chars": 947,
       "ideas": 45,
       "role": "chapter",
-      "order": 32,
+      "order": 28,
       "prev": "uzkost_031.html",
-      "next": "uzkost_033.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -703,20 +619,20 @@
       ]
     },
     {
-      "title": "Úzkost",
-      "file": "uzkost_033.html",
-      "words": 47,
-      "chars": 321,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 33,
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 105,
+      "chars": 680,
+      "ideas": 14,
+      "role": "colophon",
+      "order": null,
       "prev": "uzkost_032.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -725,14 +641,14 @@
   ],
   "totals": {
     "all": {
-      "words": 3496,
-      "chars": 19457,
-      "ideas": 806
+      "words": 3472,
+      "chars": 19283,
+      "ideas": 798
     },
     "chapters": {
-      "words": 3491,
-      "chars": 19430,
-      "ideas": 802
+      "words": 3363,
+      "chars": 18581,
+      "ideas": 781
     }
   }
 }

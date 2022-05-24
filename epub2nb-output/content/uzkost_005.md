@@ -3,6 +3,6 @@ title: ''
 contentType: poetry
 ---
 
-Příteli, hlavu vzhůru,  
+_Příteli, hlavu vzhůru,  
 nebo střelím.  
-IVAN VYSKOČIL
+IVAN VYSKOČIL_
