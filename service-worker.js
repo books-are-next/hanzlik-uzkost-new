@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-b68d698';
+const CACHE = 'cache-b43a525';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./uzkost_005.html","./uzkost_006.html","./uzkost_007.html","./uzkost_008.html","./uzkost_009.html","./uzkost_010.html","./uzkost_012.html","./uzkost_011.html","./uzkost_013.html","./uzkost_014.html","./uzkost_015.html","./uzkost_016.html","./uzkost_017.html","./uzkost_018.html","./uzkost_019.html","./uzkost_020.html","./uzkost_021.html","./uzkost_022.html","./uzkost_023.html","./uzkost_024.html","./uzkost_025.html","./uzkost_026.html","./uzkost_028.html","./uzkost_029.html","./uzkost_027.html","./uzkost_030.html","./uzkost_031.html","./uzkost_032.html","./scripts/bundle.js","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./uzkost_005.html","./uzkost_006.html","./uzkost_007.html","./uzkost_008.html","./uzkost_009.html","./uzkost_010.html","./uzkost_011.html","./uzkost_012.html","./uzkost_013.html","./uzkost_014.html","./uzkost_015.html","./uzkost_016.html","./uzkost_017.html","./uzkost_018.html","./uzkost_019.html","./uzkost_020.html","./uzkost_021.html","./uzkost_022.html","./uzkost_023.html","./uzkost_024.html","./uzkost_025.html","./uzkost_026.html","./uzkost_027.html","./uzkost_028.html","./uzkost_029.html","./uzkost_030.html","./uzkost_031.html","./uzkost_032.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
