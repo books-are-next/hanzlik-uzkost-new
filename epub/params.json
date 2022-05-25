@@ -461,8 +461,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -470,7 +469,7 @@
       "identifier": "13e42fbb-f55d-4af7-a523-54ee9c544a36",
       "author": "Josef Hanzlík",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-04-08T00:00:00.000Z"
+      "modified": "2019-04-07T22:00:00.000Z"
     },
     "chapters": [
       {
@@ -730,10 +729,7 @@
       "wordsection4",
       "wordsection5"
     ],
-    "github": {
-      "user": "books-are-next",
-      "repo": "hanzlik-uzkost-new"
-    },
-    "generatedAt": 1653337945395
+    "github": null,
+    "generatedAt": 1653403373019
   }
 }

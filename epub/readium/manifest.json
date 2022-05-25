@@ -1,0 +1,288 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Úzkost",
+    "identifier": "13e42fbb-f55d-4af7-a523-54ee9c544a36",
+    "author": "Josef Hanzlík",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2019-04-07T22:00:00.000Z",
+    "published": "2019-04-07T22:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/uzkost_033.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Variace I",
+      "href": "OEBPS/Text/uzkost_006.html"
+    },
+    {
+      "title": "Variace II",
+      "href": "OEBPS/Text/uzkost_007.html"
+    },
+    {
+      "title": "Variace III",
+      "href": "OEBPS/Text/uzkost_008.html"
+    },
+    {
+      "title": "Variace IV",
+      "href": "OEBPS/Text/uzkost_009.html"
+    },
+    {
+      "title": "Variace V",
+      "href": "OEBPS/Text/uzkost_010.html"
+    },
+    {
+      "title": "Variace VI (otázka)",
+      "href": "OEBPS/Text/uzkost_011.html"
+    },
+    {
+      "title": "Variace VII",
+      "href": "OEBPS/Text/uzkost_012.html"
+    },
+    {
+      "title": "Variace VIII",
+      "href": "OEBPS/Text/uzkost_013.html"
+    },
+    {
+      "title": "Variace IX",
+      "href": "OEBPS/Text/uzkost_014.html"
+    },
+    {
+      "title": "Variace X",
+      "href": "OEBPS/Text/uzkost_015.html"
+    },
+    {
+      "title": "Variace XI",
+      "href": "OEBPS/Text/uzkost_016.html"
+    },
+    {
+      "title": "Variace XII",
+      "href": "OEBPS/Text/uzkost_017.html"
+    },
+    {
+      "title": "Variace XIII",
+      "href": "OEBPS/Text/uzkost_018.html"
+    },
+    {
+      "title": "Variace XIV (dárky)",
+      "href": "OEBPS/Text/uzkost_019.html"
+    },
+    {
+      "title": "Variace XV (mlha)",
+      "href": "OEBPS/Text/uzkost_020.html"
+    },
+    {
+      "title": "Variace XVI",
+      "href": "OEBPS/Text/uzkost_021.html"
+    },
+    {
+      "title": "Variace XVII (únosy)",
+      "href": "OEBPS/Text/uzkost_022.html"
+    },
+    {
+      "title": "Variace XVIII (pohrůžky)",
+      "href": "OEBPS/Text/uzkost_023.html"
+    },
+    {
+      "title": "Variace XIX (hroby)",
+      "href": "OEBPS/Text/uzkost_024.html"
+    },
+    {
+      "title": "Variace XX (útěky)",
+      "href": "OEBPS/Text/uzkost_025.html"
+    },
+    {
+      "title": "Variace XXI (někdy nikde)",
+      "href": "OEBPS/Text/uzkost_026.html"
+    },
+    {
+      "title": "Variace XXII (krajina)",
+      "href": "OEBPS/Text/uzkost_027.html"
+    },
+    {
+      "title": "Variace XXIII (úkoly)",
+      "href": "OEBPS/Text/uzkost_028.html"
+    },
+    {
+      "title": "Variace XXIV (žalm za zemřelé)",
+      "href": "OEBPS/Text/uzkost_029.html"
+    },
+    {
+      "title": "Variace XXV (křísení)",
+      "href": "OEBPS/Text/uzkost_030.html"
+    },
+    {
+      "title": "Variace XXVI (dedikace)",
+      "href": "OEBPS/Text/uzkost_031.html"
+    },
+    {
+      "title": "Variace XXVII",
+      "href": "OEBPS/Text/uzkost_032.html"
+    }
+  ]
+}
