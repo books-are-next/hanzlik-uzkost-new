@@ -3,6 +3,8 @@ title: Variace XXIV  (žalm za zemřelé)
 contentType: poetry
 ---
 
+<section>
+
 Spí slunce na makových polích  
 V zimních kamnech kvetou pavouci  
 Klekánice kýchá dětem do úst
@@ -34,3 +36,5 @@ Hrůza hrůze vyklovává oči
 Nesnažte se o cokoli  
 všem je tu bez vás  
 o poznání lépe
+
+</section>

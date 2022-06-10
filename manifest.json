@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hanzlik-uzkost-2c6db9b",
-  "revision": "2c6db9b",
+  "identifier": "hanzlik-uzkost-b6bcb0a",
+  "revision": "b6bcb0a",
   "readingOrder": [
     "promo.html",
     "uzkost_005.html",
@@ -42,8 +42,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:21:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870865097
+    "date": "Fri Jun 10 2022 17:50:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883412580
   },
   "documents": [
     {
@@ -61,9 +61,9 @@
     {
       "title": "Úzkost",
       "file": "uzkost_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 7,
+      "chars": 48,
+      "ideas": 3,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -621,9 +621,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 105,
-      "chars": 680,
-      "ideas": 14,
+      "words": 53,
+      "chars": 380,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "uzkost_032.html",
@@ -641,14 +641,14 @@
   ],
   "totals": {
     "all": {
-      "words": 3472,
-      "chars": 19283,
-      "ideas": 798
+      "words": 3427,
+      "chars": 19031,
+      "ideas": 792
     },
     "chapters": {
-      "words": 3363,
-      "chars": 18581,
-      "ideas": 781
+      "words": 3370,
+      "chars": 18629,
+      "ideas": 784
     }
   }
 }

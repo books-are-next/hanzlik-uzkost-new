@@ -3,6 +3,8 @@ title: Variace VI  (otázka)
 contentType: poetry
 ---
 
+<section>
+
 Kam jdeš? Kam nejdeš?  
 Vrátíš se vůbec mrtev a zdráv?
 
@@ -42,3 +44,5 @@ Lze předběhnout minulost
 a vrátit se do budoucna?
 
 Umřu?
+
+</section>

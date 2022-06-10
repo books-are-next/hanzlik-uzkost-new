@@ -3,6 +3,8 @@ title: Variace XXIII  (úkoly)
 contentType: poetry
 ---
 
+<section>
+
 Mráz spálí kopřivu  
 vítr utopí listí  
 ruka zlomí nohu
@@ -24,3 +26,5 @@ Dřevo uprosí hlínu
 svině perlám
 
 Netečnost vstane ještě za rosy
+
+</section>

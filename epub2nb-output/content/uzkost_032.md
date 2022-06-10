@@ -3,6 +3,8 @@ title: Variace XXVII
 contentType: poetry
 ---
 
+<section>
+
 Pro příště  
 už ani památky  
 po čemkoli
@@ -55,3 +57,5 @@ nenáviď ohýbej se
 otrav se oros se  
 umírej  
 lži
+
+</section>

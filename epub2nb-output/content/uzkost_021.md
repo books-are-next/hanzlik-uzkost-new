@@ -3,6 +3,8 @@ title: Variace XVI
 contentType: poetry
 ---
 
+<section>
+
 Ošklivost která mi kouká z očí  
 jako přežvýkaná sláma z bot
 
@@ -17,3 +19,5 @@ Která plyne z úzkosti do radosti
 
 Ošklivost která je ve mně  
 jako jsem v sobě já a nikoli někdo druhý
+
+</section>

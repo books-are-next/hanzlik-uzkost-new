@@ -3,6 +3,8 @@ title: Variace XVII  (únosy)
 contentType: poetry
 ---
 
+<section>
+
 Vlci unášejí přítulné děti  
 řeka hlínu po mrtvých  
 oheň dopis plný vlasů
@@ -34,3 +36,5 @@ skříň zamkla za sestřinou košilí
 Ráno vytrhává láskám jazyky z bot  
 Vítr z jatek láme deštníkům žebra  
 Housle unášejí provaz s tím ostatním
+
+</section>

@@ -3,6 +3,8 @@ title: Variace XI
 contentType: poetry
 ---
 
+<section>
+
 Jak dlouho už dělím čas  
 mezi ošizené a liché
 
@@ -41,3 +43,5 @@ strachem ze své ohyzdnosti
 
 Nelze omlouvat nelze se nenepřátelit  
 jsem sám jako slovo na jazyku
+
+</section>

@@ -3,6 +3,8 @@ title: Variace XXII  (krajina)
 contentType: poetry
 ---
 
+<section>
+
 Několik vlčích tváří  
 Svazek zjihlých stromů  
 Rakovina tajícího sněhu
@@ -30,3 +32,5 @@ Ve svatební truhle chléb o dvou kůrkách
 Děti padající daleko od stromu  
 Lávka do sedmého nebe  
 Kočičí zlato na slunci měsíc v psích zubech
+
+</section>

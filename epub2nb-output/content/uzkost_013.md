@@ -3,6 +3,8 @@ title: Variace VIII
 contentType: poetry
 ---
 
+<section>
+
 Pochop že nemůžeš utéci  
 všechny tvé samoty  
 jsou úkryty jen velmi dočasnými
@@ -42,3 +44,5 @@ v níž jsem tě podváděla
 Vracím se ti jako zima  
 ale nepleť se  
 ze mne jen smutně prší
+
+</section>

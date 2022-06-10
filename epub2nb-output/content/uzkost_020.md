@@ -3,6 +3,8 @@ title: Variace XV  (mlha)
 contentType: poetry
 ---
 
+<section>
+
 Ruce které odcházejí  
 Mlha která zůstává
 
@@ -92,3 +94,5 @@ Píseň která stříhá nohama
 Půjdu nalovit krve  
 a ty lámej kámen na chleba  
 vylámeš si zuby o mé zuby
+
+</section>

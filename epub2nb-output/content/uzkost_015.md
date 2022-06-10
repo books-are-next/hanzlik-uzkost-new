@@ -3,6 +3,8 @@ title: Variace X
 contentType: poetry
 ---
 
+<section>
+
 Usni  
 udělej se pro sebe  
 dopij mé víno dokousej si nehty  
@@ -40,3 +42,5 @@ Mlč
 odpouštím ti vše tvé  
 v nelásce k nám  
 neznám bratra
+
+</section>

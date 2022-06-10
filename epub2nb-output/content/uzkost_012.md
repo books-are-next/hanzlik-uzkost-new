@@ -3,6 +3,8 @@ title: Variace VII
 contentType: poetry
 ---
 
+<section>
+
 Pospíchám travičskými kroky  
 Rychle zabij vše své  
 kterýkoliv verš může být poslední
@@ -38,3 +40,5 @@ mýdlová špína z pilátských rukou
 Nepoznávej mě  
 nemám už hodné oči  
 neumím psát světlotiskem
+
+</section>

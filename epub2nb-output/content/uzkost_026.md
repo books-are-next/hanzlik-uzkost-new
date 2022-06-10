@@ -3,6 +3,8 @@ title: Variace XXI  (někdy nikde)
 contentType: poetry
 ---
 
+<section>
+
 Někde začni  
 Nikde nepokračuj
 
@@ -32,3 +34,5 @@ někdy ti koupím bílé máky do tváří
 
 Někdy někde  
 někdy nikdy nikde
+
+</section>

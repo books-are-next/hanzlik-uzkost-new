@@ -3,6 +3,8 @@ title: Variace XIV  (dárky)
 contentType: poetry
 ---
 
+<section>
+
 K svátku:  
 zamrzlá všechna okna  
 mráz v srdci  
@@ -55,3 +57,5 @@ rolničky housle mák
 desátou bídu  
 těhotné vnučky  
 poloviční vstupné
+
+</section>

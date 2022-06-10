@@ -3,6 +3,8 @@ title: Variace XXV  (křísení)
 contentType: poetry
 ---
 
+<section>
+
 Jsem už naživu?  
 Jste už naživu a zdrávi?
 
@@ -35,3 +37,5 @@ Necitelnost si líže první zub
 
 Procitl tvůj život?  
 Procitla má smrt?
+
+</section>
