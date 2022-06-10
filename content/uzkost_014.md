@@ -3,6 +3,8 @@ title: Variace IX
 contentType: poetry
 ---
 
+<section>
+
 Chodím v mlze  
 bojím se svých rukou  
 držím v nich železo na živé lidi
@@ -20,3 +22,5 @@ průhlednější než brýle na mrtvém
 Jenom se nesměj tak nepřejícně  
 tvá smůla zůstala za mými nehty  
 mé nehty v důlcích po tvých očích
+
+</section>

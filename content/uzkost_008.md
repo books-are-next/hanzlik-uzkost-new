@@ -3,6 +3,8 @@ title: Variace III
 contentType: poetry
 ---
 
+<section>
+
 Nemysli stále na svou osiřelost  
 třebaže osiření je tklivost sama
 
@@ -44,3 +46,5 @@ na hladině po mně zůstávají šlápoty
 Jenom teď nezačínat s láskou  
 Vše je na nejlepší cestě  
 Nenávidím ale počínám si zoufat
+
+</section>

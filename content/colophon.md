@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 **Josef Hanzlík**  
 **Úzkost**  
 Edice Čeští básnící 20. století  
@@ -9,11 +10,8 @@ Redakce Markéta Teuchnerová
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 1. elektronické vydání  
+</section>  
 1. vydání z 10. 6. 2022.
-
-***
-
-Znění tohoto textu vychází z díla [Úzkost](https://search.mlp.cz/cz/titul/uzkost/159475/) tak, jak bylo vydáno v Praze nakladatelstvím Mladá fronta v roce 1966.
 
 ***
 

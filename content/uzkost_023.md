@@ -3,6 +3,8 @@ title: Variace XVIII  (pohrůžky)
 contentType: poetry
 ---
 
+<section>
+
 Rezavá barva vyhrožuje černé  
 Mozek vyhrožuje lebeční kosti  
 Piliny hrozí ovesnému chlebu
@@ -30,3 +32,5 @@ cokoli vyhrožuje čemukoli
 Nikdo hrozí někomu  
 Bláto drží za krk všechny nohy  
 Sny drží v šachu naděje křížků v zádech
+
+</section>

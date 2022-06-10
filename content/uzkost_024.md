@@ -3,6 +3,8 @@ title: Variace XIX  (hroby)
 contentType: poetry
 ---
 
+<section>
+
 Kočí kope jámu koni  
 kočár pocestnému  
 Slepice pohřbívá hrách
@@ -24,3 +26,5 @@ Někdo nad něčím zlomil kříž
 
 Mrtví pohřbili mrtvé  
 živí pohřbívají živé
+
+</section>

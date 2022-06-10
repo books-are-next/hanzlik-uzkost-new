@@ -3,6 +3,8 @@ title: Variace II
 contentType: poetry
 ---
 
+<section>
+
 Opravdu lze u tebe hovořit až do nekonečna  
 o nenávisti?  
 Ovšem k smíchu je že u kohokoliv  
@@ -41,3 +43,5 @@ jsem blázen do tvých květin
 A neboj se mně  
 hovořím sám se sebou  
 tak je to správné
+
+</section>

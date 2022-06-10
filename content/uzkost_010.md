@@ -3,6 +3,8 @@ title: Variace V
 contentType: poetry
 ---
 
+<section>
+
 Lihové lampy  
 arkýře úponky  
 podpadky  
@@ -62,3 +64,5 @@ pláč z dětství se ti vrací v dětech
 nikdo k tobě nenáleží méně  
 než jméno které ti dává  
 rakvářův věčný úsměv a stesk
+
+</section>

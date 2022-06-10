@@ -3,6 +3,8 @@ title: Variace XX  (útěky)
 contentType: poetry
 ---
 
+<section>
+
 Mravenci běží před ohněm a hladem  
 Zuby drkotají ke kolenům  
 Krysy se prohryzávají palubou
@@ -25,3 +27,5 @@ Oves se vyhýbá větrnému mlýnu
 
 Člověk se střeží svého boha  
 bůh svého člověka
+
+</section>

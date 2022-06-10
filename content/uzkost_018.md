@@ -3,6 +3,8 @@ title: Variace XIII
 contentType: poetry
 ---
 
+<section>
+
 Mlčení toho kdo mluví  
 Mluvení toho kdo neodpovídá
 
@@ -51,3 +53,5 @@ vyvrhni ho oškrábej šupiny
 holubí srdce které z něj uvaříš  
 bude mít jako já oči navrch hlavy  
 a zuby za jazykem
+
+</section>

@@ -3,6 +3,8 @@ title: Variace XXVI  (dedikace)
 contentType: poetry
 ---
 
+<section>
+
 Jemuž sadař odmítá i spadlá jablka  
 Jenž stárne u lihových kamen útlosti  
 Jemuž odcházejí lásky jako zuby a vlasy
@@ -25,3 +27,5 @@ Jenž si kdysi přával
 jenž zapomíná
 
 Jenž i neumírá křiče jen žalostně a tiše
+
+</section>

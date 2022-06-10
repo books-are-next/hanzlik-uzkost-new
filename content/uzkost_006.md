@@ -3,6 +3,8 @@ title: Variace I
 contentType: poetry
 ---
 
+<section>
+
 Je-li mlčení  
 jen pohřbívání sebe sama?
 
@@ -36,3 +38,5 @@ dělám chybu že ve vodě zavírám oči
 Jenom mi nezáviď  
 vozíme tu kamení  
 už mi nerozumí ani psi a jíl
+
+</section>

@@ -3,6 +3,8 @@ title: Variace IV
 contentType: poetry
 ---
 
+<section>
+
 Svítím zlodějskou lampičkou  
 ukrádám si světlo  
 jako bych je šetřil na psí stáří
@@ -41,3 +43,5 @@ rozkopej to všechno ještě před snídaní
 Spočítej si mou útratu  
 bojím se  
 že už nikdy nikomu nic nezapomenu
+
+</section>

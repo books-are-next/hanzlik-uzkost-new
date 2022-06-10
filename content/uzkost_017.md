@@ -3,6 +3,8 @@ title: Variace XII
 contentType: poetry
 ---
 
+<section>
+
 Nemohu si zvyknout  
 Vlasy mi tu vstávají  
 od načaté snídaně  
@@ -31,3 +33,5 @@ po kouscích od vlasů k vlasům
 Jen zbude-li dost zubů  
 i na lebeční kosti  
 na ty především
+
+</section>
