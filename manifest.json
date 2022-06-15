@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hanzlik-uzkost-370c01b",
-  "revision": "370c01b",
+  "identifier": "hanzlik-uzkost-c7a1749",
+  "revision": "c7a1749",
   "readingOrder": [
     "promo.html",
     "uzkost_005.html",
@@ -42,8 +42,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:54:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157259110
+    "date": "Wed Jun 15 2022 05:49:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272168933
   },
   "documents": [
     {
@@ -621,8 +621,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 105,
-      "chars": 680,
+      "words": 119,
+      "chars": 787,
       "ideas": 14,
       "role": "colophon",
       "order": null,
@@ -641,8 +641,8 @@
   ],
   "totals": {
     "all": {
-      "words": 3479,
-      "chars": 19331,
+      "words": 3493,
+      "chars": 19438,
       "ideas": 801
     },
     "chapters": {
