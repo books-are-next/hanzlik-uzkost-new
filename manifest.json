@@ -5,10 +5,11 @@
   "title": "Úzkost",
   "author": "Josef Hanzlík",
   "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hanzlik-uzkost-c7a1749",
-  "revision": "c7a1749",
+  "identifier": "hanzlik-uzkost-a2b14da",
+  "revision": "a2b14da",
   "readingOrder": [
     "promo.html",
     "uzkost_005.html",
@@ -42,8 +43,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:49:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272168933
+    "date": "Thu Jun 16 2022 07:29:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364576221
   },
   "documents": [
     {
@@ -641,9 +642,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3493,
-      "chars": 19438,
-      "ideas": 801
+      "words": 3494,
+      "chars": 19444,
+      "ideas": 802
     },
     "chapters": {
       "words": 3370,
