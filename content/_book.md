@@ -12,6 +12,7 @@ meta:
   modified: '2019-04-08T00:00:00.000Z'
   contentType: poetry
   publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - uzkost_005.html
