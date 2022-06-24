@@ -21,15 +21,16 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*\nmlptextbez1radku1",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
+      "figure": "MLP_obrazky\nMLP-obrazky\nmlpobrazky",
+      "centered": "",
+      "verse": "MLP-verse\nMLP-verse.+\nmlpverse",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nmlpvenovani",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf\nmlptirazautoranazev",
       "remove": "",
-      "ignore": "",
-      "verse": "MLP-verse\nMLP-verse.+"
+      "ignore": ""
     },
     "structure": [
       {
@@ -107,8 +108,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace I"
+            "title": "Variace I",
+            "children": []
           },
           {
             "filename": "uzkost_007.md",
@@ -120,8 +121,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace II"
+            "title": "Variace II",
+            "children": []
           },
           {
             "filename": "uzkost_008.md",
@@ -133,8 +134,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace III"
+            "title": "Variace III",
+            "children": []
           },
           {
             "filename": "uzkost_009.md",
@@ -146,8 +147,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace IV"
+            "title": "Variace IV",
+            "children": []
           },
           {
             "filename": "uzkost_010.md",
@@ -159,8 +160,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace V"
+            "title": "Variace V",
+            "children": []
           },
           {
             "filename": "uzkost_011.md",
@@ -172,8 +173,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace VI  (otázka)"
+            "title": "Variace VI  (otázka)",
+            "children": []
           },
           {
             "filename": "uzkost_012.md",
@@ -185,8 +186,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace VII"
+            "title": "Variace VII",
+            "children": []
           },
           {
             "filename": "uzkost_013.md",
@@ -198,8 +199,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace VIII"
+            "title": "Variace VIII",
+            "children": []
           },
           {
             "filename": "uzkost_014.md",
@@ -211,8 +212,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace IX"
+            "title": "Variace IX",
+            "children": []
           },
           {
             "filename": "uzkost_015.md",
@@ -224,8 +225,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace X"
+            "title": "Variace X",
+            "children": []
           },
           {
             "filename": "uzkost_016.md",
@@ -237,8 +238,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XI"
+            "title": "Variace XI",
+            "children": []
           },
           {
             "filename": "uzkost_017.md",
@@ -250,8 +251,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XII"
+            "title": "Variace XII",
+            "children": []
           },
           {
             "filename": "uzkost_018.md",
@@ -263,8 +264,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XIII"
+            "title": "Variace XIII",
+            "children": []
           },
           {
             "filename": "uzkost_019.md",
@@ -276,8 +277,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XIV  (dárky)"
+            "title": "Variace XIV  (dárky)",
+            "children": []
           },
           {
             "filename": "uzkost_020.md",
@@ -289,8 +290,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XV  (mlha)"
+            "title": "Variace XV  (mlha)",
+            "children": []
           },
           {
             "filename": "uzkost_021.md",
@@ -302,8 +303,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XVI"
+            "title": "Variace XVI",
+            "children": []
           },
           {
             "filename": "uzkost_022.md",
@@ -315,8 +316,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XVII  (únosy)"
+            "title": "Variace XVII  (únosy)",
+            "children": []
           },
           {
             "filename": "uzkost_023.md",
@@ -328,8 +329,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XVIII  (pohrůžky)"
+            "title": "Variace XVIII  (pohrůžky)",
+            "children": []
           },
           {
             "filename": "uzkost_024.md",
@@ -341,8 +342,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XIX  (hroby)"
+            "title": "Variace XIX  (hroby)",
+            "children": []
           },
           {
             "filename": "uzkost_025.md",
@@ -354,8 +355,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XX  (útěky)"
+            "title": "Variace XX  (útěky)",
+            "children": []
           },
           {
             "filename": "uzkost_026.md",
@@ -367,8 +368,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XXI  (někdy nikde)"
+            "title": "Variace XXI  (někdy nikde)",
+            "children": []
           },
           {
             "filename": "uzkost_027.md",
@@ -380,8 +381,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XXII  (krajina)"
+            "title": "Variace XXII  (krajina)",
+            "children": []
           },
           {
             "filename": "uzkost_028.md",
@@ -393,8 +394,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XXIII  (úkoly)"
+            "title": "Variace XXIII  (úkoly)",
+            "children": []
           },
           {
             "filename": "uzkost_029.md",
@@ -406,8 +407,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XXIV  (žalm za zemřelé)"
+            "title": "Variace XXIV  (žalm za zemřelé)",
+            "children": []
           },
           {
             "filename": "uzkost_030.md",
@@ -419,8 +420,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XXV  (křísení)"
+            "title": "Variace XXV  (křísení)",
+            "children": []
           },
           {
             "filename": "uzkost_031.md",
@@ -432,8 +433,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XXVI  (dedikace)"
+            "title": "Variace XXVI  (dedikace)",
+            "children": []
           },
           {
             "filename": "uzkost_032.md",
@@ -445,8 +446,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Variace XXVII"
+            "title": "Variace XXVII",
+            "children": []
           },
           {
             "filename": "uzkost_033.md",
@@ -734,6 +735,6 @@
       "user": "books-are-next",
       "repo": "hanzlik-uzkost-new"
     },
-    "generatedAt": 1655978558180
+    "generatedAt": 1656064662695
   }
 }
