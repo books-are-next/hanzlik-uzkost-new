@@ -43,7 +43,7 @@ readingOrder:
   - uzkost_030.html
   - uzkost_031.html
   - uzkost_032.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

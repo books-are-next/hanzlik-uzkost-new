@@ -66,7 +66,7 @@
             "filename": "uzkost_003.md",
             "xhtml": "uzkost_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -78,7 +78,7 @@
             "filename": "uzkost_004.md",
             "xhtml": "uzkost_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -453,7 +453,7 @@
             "filename": "uzkost_033.md",
             "xhtml": "uzkost_033.html",
             "id": 32,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -735,6 +735,6 @@
       "user": "books-are-next",
       "repo": "hanzlik-uzkost-new"
     },
-    "generatedAt": 1656064662695
+    "generatedAt": 1657181928719
   }
 }

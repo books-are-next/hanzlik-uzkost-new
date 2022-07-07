@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hanzlik-uzkost-297e779",
-  "revision": "297e779",
+  "identifier": "hanzlik-uzkost-d8c374c",
+  "revision": "d8c374c",
   "readingOrder": [
     "promo.html",
     "uzkost_005.html",
@@ -40,11 +40,11 @@
     "uzkost_030.html",
     "uzkost_031.html",
     "uzkost_032.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 24 2022 09:59:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656064756451
+    "date": "Thu Jul 07 2022 08:25:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182358520
   },
   "documents": [
     {
@@ -193,7 +193,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Variace VI  (otázka)",
+          "name": "Variace VI  (otázka)",
           "id": null,
           "children": []
         }
@@ -373,7 +373,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Variace XV  (mlha)",
+          "name": "Variace XV  (mlha)",
           "id": null,
           "children": []
         }
@@ -473,7 +473,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Variace XX  (útěky)",
+          "name": "Variace XX  (útěky)",
           "id": null,
           "children": []
         }
@@ -553,7 +553,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Variace XXIV  (žalm za zemřelé)",
+          "name": "Variace XXIV  (žalm za zemřelé)",
           "id": null,
           "children": []
         }
@@ -608,7 +608,7 @@
       "role": "chapter",
       "order": 28,
       "prev": "uzkost_031.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -621,11 +621,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 119,
-      "chars": 787,
+      "chars": 786,
       "ideas": 14,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "uzkost_032.html",
       "next": null,
@@ -642,9 +642,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3494,
-      "chars": 19444,
-      "ideas": 802
+      "words": 3599,
+      "chars": 20123,
+      "ideas": 816
     },
     "chapters": {
       "words": 3370,
