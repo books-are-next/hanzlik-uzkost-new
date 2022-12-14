@@ -13,7 +13,7 @@ bude mít příliš ostré sykavky
 a hrb moudrosti
 
 Ztrácíš se mi jako jehla v seně  
-Ale poznávám tě  
+Ale poznávám tě\
 máš úmyslně v uších červenou niť
 
 Kdo složil nejvíc valčíků?  

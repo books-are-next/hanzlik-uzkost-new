@@ -14,7 +14,7 @@ ale možná jen červené vrány
 
 Mé lůžko je přizamčeno ke zdi  
 S nebe padají fialky jako koňská hlava  
-Pluje tu něžnost Nestýskej si  
+Pluje tu něžnost Nestýskej si\
 tví přátelé tě zvou  
 do hospody Na flusárně
 

@@ -37,7 +37,7 @@ křičí mi cosi s velkými písmeny
 přímo do ucha  
 nerozumím ani slovo
 
-Neodpusť mi  
+Neodpusť mi\
 vyspi se s knihou  
 v níž jsem tě podváděla
 
