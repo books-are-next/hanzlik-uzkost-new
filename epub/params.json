@@ -1,4 +1,5 @@
 {
+  "extractionComplete": true,
   "params": {
     "metadata": {
       "languageCode": "cs",
@@ -736,6 +737,6 @@
       "user": "books-are-next",
       "repo": "hanzlik-uzkost-new"
     },
-    "generatedAt": 1655978558180
+    "generatedAt": 1666350909927
   }
 }
